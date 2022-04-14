@@ -37,25 +37,26 @@ function Dashbord() {
 
     function removeToken() {
         sessionStorage.removeItem("userToken");
-        window.location.href = "#/login";
+        window.location.href = "/log/login";
     }
 
     return (
         <div>
-             <nav className="menu">
-                <img   className='logo' src={require('./images/GReesh.png')} />
+            <nav className="menu">
+                <img className='logo' src={require('./images/GReesh.png')} />
 
 
-                    <ul className='menu-iteam'>
-                    <li><Link to="/home">Home</Link></li>c
-                        <li><Link to="/Registration">Registration</Link></li>
-                        <li><Link to="/Login">Login</Link></li> 
-                        <li><Link to="/log/Dashbord">Dashbord</Link></li>
+                <ul className='menu-iteam'>
+                    <li><Link to="/home">Home</Link></li>
+                    <li><Link to="/log/Registration">Registration</Link></li>
+                    <li><Link to="/log/Login">Login</Link></li>
+                    <li><Link to="/log/Dashbord">Dashbord</Link></li>
 
-                    </ul>
-                </nav>
+
+                </ul>
+            </nav>
             <div className='container appbord'>
-           
+
                 <p></p>
                 <div className='row'>
                     <div className='col-md-12' style={{ textAlign: 'center', color: 'blue' }}><b>User Details</b></div>

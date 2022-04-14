@@ -26,20 +26,22 @@ function AddEmployee(props) {
         });
         updateEmpList(updateEmpList1);
         localStorage.setItem("user", JSON.stringify(updateEmpList1));
-        window.location.href = "#/login";
+        window.location.href = "#/log/login";
 
     }
 
     return (
+        <div className="regi">
         <div className="container" >
+            
                  <nav className="menu">
                 <img   className='logo' src={require('./images/GReesh.png')} />
 
 
                     <ul className='menu-iteam'>
                      <li><Link to="/home">Home</Link></li>
-                        <li><Link to="/Registration">Registration</Link></li>
-                        <li><Link to="/Login">Login</Link></li> 
+                     <li><Link to="/log/Registration">Registration</Link></li>
+                        <li><Link to="/log/Login">Login</Link></li> 
                         <li><Link to="/log/Dashbord">Dashbord</Link></li>
 
                     </ul>
@@ -103,6 +105,7 @@ function AddEmployee(props) {
                  <Link to="/Login" className="link-toanathor">Alraedy ACcount?</Link>
 
             </div>
+        </div>
         </div>
     )
 }

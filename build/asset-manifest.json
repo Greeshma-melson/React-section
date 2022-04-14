@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/React-section/build/static/css/main.7875e7a0.css",
-    "main.js": "/React-section/build/static/js/main.750c4ce2.js",
-    "static/js/956.101ea82b.chunk.js": "/React-section/build/static/js/956.101ea82b.chunk.js",
-    "static/js/27.44450d1a.chunk.js": "/React-section/build/static/js/27.44450d1a.chunk.js",
-    "static/js/509.a5efc83f.chunk.js": "/React-section/build/static/js/509.a5efc83f.chunk.js",
+    "main.css": "/React-section/build/static/css/main.dace6964.css",
+    "main.js": "/React-section/build/static/js/main.0b472354.js",
+    "static/js/956.2d967e68.chunk.js": "/React-section/build/static/js/956.2d967e68.chunk.js",
+    "static/js/27.0dc726fa.chunk.js": "/React-section/build/static/js/27.0dc726fa.chunk.js",
+    "static/js/509.90bc76b8.chunk.js": "/React-section/build/static/js/509.90bc76b8.chunk.js",
     "static/js/787.8ac8aa7e.chunk.js": "/React-section/build/static/js/787.8ac8aa7e.chunk.js",
     "static/media/GReesh.png": "/React-section/build/static/media/GReesh.6d38986bf23b325a1279.png",
     "index.html": "/React-section/build/index.html",
-    "main.7875e7a0.css.map": "/React-section/build/static/css/main.7875e7a0.css.map",
-    "main.750c4ce2.js.map": "/React-section/build/static/js/main.750c4ce2.js.map",
-    "956.101ea82b.chunk.js.map": "/React-section/build/static/js/956.101ea82b.chunk.js.map",
-    "27.44450d1a.chunk.js.map": "/React-section/build/static/js/27.44450d1a.chunk.js.map",
-    "509.a5efc83f.chunk.js.map": "/React-section/build/static/js/509.a5efc83f.chunk.js.map",
+    "main.dace6964.css.map": "/React-section/build/static/css/main.dace6964.css.map",
+    "main.0b472354.js.map": "/React-section/build/static/js/main.0b472354.js.map",
+    "956.2d967e68.chunk.js.map": "/React-section/build/static/js/956.2d967e68.chunk.js.map",
+    "27.0dc726fa.chunk.js.map": "/React-section/build/static/js/27.0dc726fa.chunk.js.map",
+    "509.90bc76b8.chunk.js.map": "/React-section/build/static/js/509.90bc76b8.chunk.js.map",
     "787.8ac8aa7e.chunk.js.map": "/React-section/build/static/js/787.8ac8aa7e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7875e7a0.css",
-    "static/js/main.750c4ce2.js"
+    "static/css/main.dace6964.css",
+    "static/js/main.0b472354.js"
   ]
 }

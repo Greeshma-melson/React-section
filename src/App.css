@@ -1,8 +1,33 @@
-html
+/* html
 {
     background-color: #3D89C3 ;
-}
+} */
 #left-side
 {
     border: 2px solid red;
+}
+.regi
+{
+    background-color: #3D89C3;
+}
+.center
+{
+    width: 100%;
+    height: auto;
+    display: flex;
+    float: left;
+    background-color: #3D89C3;
+}
+.text-iteam
+{
+    width: 50%;
+    height: auto;
+    box-shadow: 0px 2px 17px 14px rgba(149, 209, 252 );
+    background: linear-gradient(#F0F4F7  , #95D1FC   );
+}
+.homeimag
+{
+    margin-left: 100px;
+    width: 50%;
+
 }
